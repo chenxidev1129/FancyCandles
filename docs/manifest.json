@@ -1,0 +1,577 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/mydocs/WPF/FancyCandles/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FancyCandles.CandleChart.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FancyCandles.CandleChart.html",
+          "hash": "r/2pntWF5P/D7hYxHD1Haw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FancyCandles.CandleExtremums.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FancyCandles.CandleExtremums.html",
+          "hash": "I1e4c2dGVwT4R5LAbYJF4w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FancyCandles.ICandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FancyCandles.ICandle.html",
+          "hash": "R8UCMVV8XzdZI/r4ZGUuZg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FancyCandles.ICandlesSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FancyCandles.ICandlesSource.html",
+          "hash": "X180PoAKIoOmhgV/pCKi7A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FancyCandles.ICandlesSourceFromProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FancyCandles.ICandlesSourceFromProvider.html",
+          "hash": "dqq+j9kLINaFl8GeUGperw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FancyCandles.ICandlesSourceProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FancyCandles.ICandlesSourceProvider.html",
+          "hash": "d80cVt/mfBQlUkECjcyu7Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FancyCandles.IResourceWithUserCounter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FancyCandles.IResourceWithUserCounter.html",
+          "hash": "jtsTbJUtUS0o0gGKE8Ft/g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FancyCandles.ISecurityInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FancyCandles.ISecurityInfo.html",
+          "hash": "skYbIvEVmcJqGr+RcDjTGw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FancyCandles.Indicators.ExponentialMovingAverage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FancyCandles.Indicators.ExponentialMovingAverage.html",
+          "hash": "++nN4Pcv8QDqt4iqsp5vSw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FancyCandles.Indicators.OverlayIndicator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FancyCandles.Indicators.OverlayIndicator.html",
+          "hash": "eAO4mMebNwD9CoufAYWXNQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FancyCandles.Indicators.SimpleMovingAverage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FancyCandles.Indicators.SimpleMovingAverage.html",
+          "hash": "3WX+Oyr95S/mXoHHicJYbA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FancyCandles.Indicators.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FancyCandles.Indicators.html",
+          "hash": "VvXfntXyyX/ur3Y1CSBchA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FancyCandles.IntRange.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FancyCandles.IntRange.html",
+          "hash": "QNOT8kkefJGOXfkNMqvxZg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FancyCandles.SecurityTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FancyCandles.SecurityTypes.html",
+          "hash": "oZztUs5QoIMUh78LHt2R0Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FancyCandles.TimeFrame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FancyCandles.TimeFrame.html",
+          "hash": "sbrl/pjl9pUdHHWQ75X8hw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FancyCandles.TimeFrameExtensionMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FancyCandles.TimeFrameExtensionMethods.html",
+          "hash": "2p170S/oSQ4cFrhh3EXg3w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FancyCandles.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FancyCandles.html",
+          "hash": "h8x/tVUx4CShzWUomfKHsw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "jSd7Rh8TxHFWBaWdceYJCQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "Ou5AXnRKz+zjssijz61PVg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/adding_fancycandles_to_project.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/adding_fancycandles_to_project.html",
+          "hash": "j+wFN2r2rqdVSIPd2xgJuA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/creating_candlestick_chart.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/creating_candlestick_chart.html",
+          "hash": "G+2QedS43kYDgrkfOkXE6Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/creating_overlay_indicator.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/creating_overlay_indicator.html",
+          "hash": "926LYs0sLSwODXq0PDLUMQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "UidNotFound"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "articles/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/overview.html",
+          "hash": "SKOtN1E7qpk239gGSPX/3g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/populating_candlestick_chart.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/populating_candlestick_chart.html",
+          "hash": "MBgkkBsbJrCvAand98CFKw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "mIs38ohJ4n2nxOuykOPbZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "download/download_doc.md",
+      "output": {
+        ".html": {
+          "relative_path": "download/download_doc.html",
+          "hash": "IUxagnyIDKiELzlfmqZxrQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "download/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "download/toc.html",
+          "hash": "8P7wPVQhNqCWmBr05YVqEQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/add_in_overlay_indicator.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/add_in_overlay_indicator.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img0.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img0.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/mouse.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/mouse.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/screen_add_existing_project.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/screen_add_existing_project.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/screen_add_reference.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/screen_add_reference.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/screen_check_fancycandles_project.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/screen_check_fancycandles_project.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/screen_empty_chart.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/screen_empty_chart.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/screen_fancycandles_in_references.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/screen_fancycandles_in_references.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/screen_github_clone.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/screen_github_clone.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/screen_install_fancycandles.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/screen_install_fancycandles.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/screen_nuget_packages.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/screen_nuget_packages.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/screen_populated_with_candles_price_chart.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/screen_populated_with_candles_price_chart.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "XBE5DFE8zbN7mNQzXPFUIA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "5G2kl4HJjo/KPgOCicBLMw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 8,
+          "skipped_file_count": 8
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 17,
+          "skipped_file_count": 16
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

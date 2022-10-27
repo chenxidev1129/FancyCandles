@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>FancyCandles</id>
+    <version>2.7.0</version>
+    <title>FancyCandles for WPF</title>
+    <authors>Dennis Geller</authors>
+    <owners>Dennis Geller</owners>
+    <license type="expression">GPL-3.0-only</license>
+    <projectUrl>https://github.com/gellerda/FancyCandles</projectUrl>
+	<icon>images\icon.png</icon>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>A candlestick chart control for WPF.</description>
+    <releaseNotes>v.2.7.0.
+- Add the ChartAreaBorderColor property.
+</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>candlestick price chart candle OHLC WPF control</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="13.0.1"/>
+    </dependencies>
+  </metadata>
+  <files>
+	<file src="icon.png" target="images\"/>
+  </files>
+</package>
